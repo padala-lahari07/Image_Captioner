@@ -1,6 +1,6 @@
 # 🖼️ Image Captioning using CNN + LSTM
 
-This repository contains an end-to-end deep learning project that generates captions for images using a **CNN encoder** (InceptionV3 or ResNet50) and an **LSTM decoder**. The model is trained on the **Flickr8k** dataset using TensorFlow/Keras in **Google Colab**.
+This repository contains an end-to-end deep learning project that generates captions for images using a **CNN encoder** (InceptionV3) and an **LSTM decoder**. The model is trained on the **Flickr8k** dataset using TensorFlow/Keras in **Google Colab**.
 
 
 ## Project Demo
