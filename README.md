@@ -3,6 +3,13 @@
 This repository contains an end-to-end deep learning project that generates captions for images using a **CNN encoder** (InceptionV3 or ResNet50) and an **LSTM decoder**. The model is trained on the **Flickr8k** dataset using TensorFlow/Keras in **Google Colab**.
 
 ---
+## Project Demo
+
+Check out a short demo video of the Image Captioning project in action on LinkedIn:
+
+[**▶️ Watch Demo Video on LinkedIn**](https://www.linkedin.com/posts/padala-lakshmi-sai-lahari-b08b59259_machinelearning-deeplearning-imagecaptioning-activity-7338596338634248196-AScz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1a_gBsH91WV2vPxzKd1PAlZZ2zPj72OY)
+
+---
 
 ## 📂 Project Structure
 
