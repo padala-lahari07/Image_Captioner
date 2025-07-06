@@ -1,0 +1,6 @@
+numpy>=1.26.0
+pandas>=2.2.0
+tensorflow>=2.16.0
+matplotlib>=3.8.0
+opencv-python>=4.9.0.80
+Pillow>=10.2.0 # Often a dependency of Keras/TensorFlow image ops, good to include if directly interacting with images
